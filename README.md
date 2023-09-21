@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Below are the result screenshot of Mean,Median,Mode of Gamma and Flavanoids.
 
-![Screenshot](resultScreenshot.png)
+![image](https://github.com/this-abhi98/Manufac_data_visulization/assets/59477311/d9490060-bc17-4318-8fdb-281587027d8b)
